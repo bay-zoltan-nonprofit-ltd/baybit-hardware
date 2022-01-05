@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name baybit)(type KiCad)(uri ${KIPRJMOD}/baybit.pretty)(options "")(descr ""))
-)
