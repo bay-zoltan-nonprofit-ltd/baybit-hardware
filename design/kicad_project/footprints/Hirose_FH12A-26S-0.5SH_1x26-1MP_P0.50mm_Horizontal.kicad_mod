@@ -67,7 +67,7 @@
   (pad 3 smd rect (at 5.25 -1.85) (size 0.3 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5.75 -1.85) (size 0.3 1.3) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 6.25 -1.85) (size 0.3 1.3) (layers F.Cu F.Paste F.Mask))
-  (model :spb_data:FH12A-26S-0.5SH.stp
+  (model ${KICAD_USER_3DMODEL_DIR}/FH12A-26S-0.5SH.stp
     (offset (xyz 20 -19.7 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 180))
